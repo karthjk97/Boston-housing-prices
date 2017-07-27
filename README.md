@@ -1,1 +1,1 @@
-# Boston-housing-prices
+This is a classic regression problem. I did the visualisation using pandas and matplotlib. I have tested this data against various models and ensembles in sklearn. Gradient boosting worked best of all the models. It produced a final accuracy score of 11.96.
