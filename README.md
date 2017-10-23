@@ -1,1 +1,1 @@
-This is a classic regression problem. I did the visualisation using pandas and matplotlib. I have tested this data against various models and ensembles in sklearn. Gradient boosting worked best of all the models. It produced a final accuracy score of 11.96.
+This python script is my attempt to predict housing prices in Boston using previous data. I have used models and ensembles from sklearn. The visualization was done in matplotlib and seaborn. Gradient Boosting best of all algorithms. I got a final mean squared error of 11.87.  
