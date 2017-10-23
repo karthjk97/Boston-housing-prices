@@ -1,1 +1,1 @@
-This python script is my attempt to predict housing prices in Boston using previous data. I have used models and ensembles from sklearn. The visualization was done in matplotlib and seaborn. Gradient Boosting best of all algorithms. I got a final mean squared error of 11.87.  
+This python script is my attempt to predict housing prices in Boston using previous data. I have used models and ensembles from sklearn. The visualization was done in matplotlib and seaborn. Gradient Boosting gave the best best results of all algorithms. I got a final mean squared error of 11.87.  
